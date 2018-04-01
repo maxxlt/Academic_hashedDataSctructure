@@ -1,9 +1,9 @@
 public class Candidate_Chan {
     public String name, degree;
     public String ID;
-    public int phone;
+    public String phone;
     //constructor
-    public Candidate_Chan(String name, String ID, int phone, String degree){
+    public Candidate_Chan(String name, String ID, String phone, String degree){
         this.name = name;
         this.ID = ID;
         this.phone = phone;
@@ -19,13 +19,13 @@ public class Candidate_Chan {
     public String getID() {
         return ID;
     }
-    public int getPhone() {
+    public String getPhone() {
         return phone;
     }
     public String getDegree() {
         return degree;
     }
-    public void setPhone(int phone) {
+    public void setPhone(String phone) {
         this.phone = phone;
     }
 

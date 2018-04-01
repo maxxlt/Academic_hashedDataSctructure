@@ -2,7 +2,7 @@ public class ExperienceCandidate_Chan extends Candidate_Chan {
     private int expYear;
     private double lastSalary;
     //constructor
-    public ExperienceCandidate_Chan(String name, String ID, int phone, String degree, int expYear, double lastSalary){
+    public ExperienceCandidate_Chan(String name, String ID, String phone, String degree, int expYear, double lastSalary){
         super(name, ID, phone, degree);
         this.expYear = expYear;
         this.lastSalary = lastSalary;
