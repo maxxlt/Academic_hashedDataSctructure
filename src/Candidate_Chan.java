@@ -29,6 +29,10 @@ public class Candidate_Chan {
         this.phone = phone;
     }
 
+    public void setDegree(String degree) {
+        this.degree = degree;
+    }
+
     public void setID(String ID) {
         this.ID = ID;
     }
