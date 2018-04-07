@@ -19,7 +19,7 @@ Candidate_Chan |
 
 ExperienceCandidate_Chan |
 ------------ |
-+expYear:int -lastSalary:double |
+-expYear:int -lastSalary:double |
 +ExperienceCandidate_Chan() +getLastSalary() +getExpYear() +toString() +deepCopy() +fileString() |
 ## Pseudocode
 <dl>
