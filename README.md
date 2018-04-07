@@ -1,5 +1,5 @@
 # Academic_hashedDataSctructure
- This is an academic project covering Hased Data Structure
+ This is an academic project covering Hashed Data Structure
 ## Objectives:
 * Know how to read the information of the object from an input file, place to the data structure
 * Know how to store the informationof all nodes in data structure back to the text file before terminating the
