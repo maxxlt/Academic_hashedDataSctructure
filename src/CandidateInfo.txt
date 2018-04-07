@@ -1,1 +1,8 @@
-Nancy Nguyen-1234567-1231234567-MS Computer ScienceMax Chan-3162608-6093176192-BS Computer ScienceAlex Pham-3116412-7143912416-BS Economic RelationsQuynh Hoang-3724142-2148439959-MS Accounting-2-70000Marcus Khang Nguyen-3651234-8643254739-BS Computer ScienceCathy Linh Nguyen-3554212-7144224793-AS Dental Hygiene-3-60000Ha Nguyen-3741352-4053718005-MS Computer Science-10-100000Ebony Ruth-3451739-4696552500-BS Pharmacy
+Nancy Nguyen-1234567-1231234567-MS Computer Science
+Cathy Linh Nguyen-3554212-7144224793-AS Dental Hygiene-3-60000.0
+Alex Pham-3116412-7143912416-BS Economic Relations
+Max Chan-3162608-6093176192-BS Computer Science
+Ha Nguyen-3741352-4053718005-MS Computer Science-10-100000.0
+Marcus Khang Nguyen-3651234-8643254739-BS Computer Science
+Ebony Ruth-3451739-4696552500-BS Pharmacy
+Quynh Hoang-3724142-2148439959-MS Accounting-2-70000.0

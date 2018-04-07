@@ -25,4 +25,9 @@ public class ExperienceCandidate_Chan extends Candidate_Chan {
         str1 += "\n";
         return str1;
     }
+    public String fileString(){
+        String str = super.fileString();
+        str += "-"+getExpYear()+"-"+getLastSalary();
+        return str;
+    }
 }

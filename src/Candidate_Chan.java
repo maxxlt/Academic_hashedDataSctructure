@@ -48,6 +48,10 @@ public class Candidate_Chan {
         str += String.format("%-20s %10s", "Degree:", getDegree() + "\n");
         return str;
     }
+    public String fileString(){//method to prepare the string for importing to file
+        String str = getName()+"-"+getID()+"-"+getPhone()+"-"+getDegree();
+        return str;
+    }
     public int compareTo(String targetKey){
         return (ID.compareTo(targetKey));
     }
